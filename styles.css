@@ -6,7 +6,7 @@ body {
   font-weight: 300;
   color: #111;
   background: url('svgs/background.svg') #edeff0;
-  background-size: 2%;
+  background-size: 53px 50px;
 }
 
 #container {
@@ -59,7 +59,8 @@ a:hover #icon-1 .st0, a:hover #icon-2 .st0, a:hover #icon-3 .st0{
   }
 
 header #layer_1{
-  width: 25%;
+  width: 140px;
+  height: 120px;
   }
 header #layer_1 .st0{fill:#BA8058;}
 header #layer_1 .st1{fill:#EAAA7F;}
